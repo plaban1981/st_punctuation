@@ -1,0 +1,5 @@
+deepmultilingualpunctuation==1.0.1
+torch==1.12.1
+transformers==4.24.0
+joblib==1.1.0
+streamlit
